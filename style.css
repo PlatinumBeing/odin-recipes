@@ -1,0 +1,38 @@
+body {
+    background-color:whitesmoke;
+}
+
+.title {
+    background-color:indianred;
+    color: white;
+    text-shadow: 0 0 10px black;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.listitem {
+    background-color:aquamarine;
+    font-size: 50px;
+    text-align: center;
+    list-style-type: none;
+    margin-top: 200px;
+    
+}
+
+a {
+    color:honeydew;
+    text-shadow: 0 0 10px black;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 75px;
+}
+
+a:hover {
+    font-size: 75px;
+}
+
+li{
+    margin: 50px;
+}
